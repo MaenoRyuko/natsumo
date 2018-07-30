@@ -46,7 +46,7 @@ layout: false
 <img src="document-img/monacarry.png" alt="monacarry.png" width="250px">
 ]]
 
-.left-column[.size_small_9[ 
+.left-column[.size_small_7[
 * 池田 夏藻
   * Ikeda Natsumo
 * 大学院卒
