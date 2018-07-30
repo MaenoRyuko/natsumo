@@ -46,7 +46,7 @@ layout: false
 <img src="document-img/monacarry.png" alt="monacarry.png" width="250px">
 ]]
 
-.left-column[
+.left-column[.size_small_9[ 
 * 池田 夏藻
   * Ikeda Natsumo
 * 大学院卒
@@ -59,12 +59,12 @@ layout: false
 * 社会人歴
    * 中学校教師 ３年半
    * 某IT企業 ２年半
-   * FJCTに入社して今に至る    
+   * FJCTに入社して今に至る  
 * 特技
   * 数学、バスケ、スノボー、<br>人にメイクをする
 * 趣味
   * ホットヨガ、絵を描く、<br>服を作る、買い物
-]
+]]
 
 ---
 .footnote_right[
@@ -153,7 +153,7 @@ layout: false
 * GitHubの無料アカウントだと非公開にできないので社外秘資料は作れない
 * コードを見たくない人には抵抗がある
 
-<br><br><br>
+<br>
 .right[.color_pink[
 興味がある方はぜひ使って見てください！
 ]]
