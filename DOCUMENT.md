@@ -46,7 +46,7 @@ layout: false
 <img src="document-img/monacarry.png" alt="monacarry.png" width="250px">
 ]]
 
-.left-column[.size_small_7[
+.left-column[.size_small_9[
 * 池田 夏藻
   * Ikeda Natsumo
 * 大学院卒
@@ -153,7 +153,6 @@ layout: false
 * GitHubの無料アカウントだと非公開にできないので社外秘資料は作れない
 * コードを見たくない人には抵抗がある
 
-<br>
 .right[.color_pink[
 興味がある方はぜひ使って見てください！
 ]]
